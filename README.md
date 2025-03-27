@@ -1,4 +1,5 @@
 # OCR Alphabet Classification Project
+Project ini merupakan tugas akhir dalam kelas **Belajar Pengembangan Machine Learning** di platform Dicoding
 ## Struktur direktori
 ```.
 ├── saved_model

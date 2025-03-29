@@ -5,8 +5,8 @@ Project ini merupakan tugas akhir dalam kelas **Belajar Pengembangan Machine Lea
 ├── saved_model
 │   └── 1
 │       ├── variables
-│       │   ├── fingerprint.pb
-│       │   └── saved_model.pb
+│       │── fingerprint.pb
+│       │── saved_model.pb
 ├── tfjs_model
 │   ├── group1-shard1of2.bin
 │   ├── group1-shard2of2.bin
